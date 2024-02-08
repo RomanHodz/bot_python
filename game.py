@@ -50,3 +50,6 @@ async def join(message: types.message):
 
 if __name__ == '__main__':
     executor.start_polling(dp)
+
+
+print("hello")
